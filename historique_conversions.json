@@ -1,0 +1,23 @@
+[
+  {
+    "montant": 30.0,
+    "devise_source": "USD",
+    "devise_cible": "EUR",
+    "montant_converti": 28.116213683223993,
+    "date": "2024-01-02 21:13:19"
+  },
+  {
+    "montant": 150.0,
+    "devise_source": "EUR",
+    "devise_cible": "PHP",
+    "montant_converti": 8976.3,
+    "date": "2024-01-02 21:33:20"
+  },
+  {
+    "montant": 150.0,
+    "devise_source": "EUR",
+    "devise_cible": "PHP",
+    "montant_converti": 8976.3,
+    "date": "2024-01-03 17:07:14"
+  }
+]
